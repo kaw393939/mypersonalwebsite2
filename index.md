@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages of Keith 
+## Welcome to GitHub Pages of Keith from NJIT 
 
 You can use the [editor on GitHub](https://github.com/kaw393939/mypersonalwebsite2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
